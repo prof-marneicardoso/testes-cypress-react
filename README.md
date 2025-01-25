@@ -183,5 +183,5 @@ describe('Testando o formulário de login', () => {
 npm run dev -- --host
 ```
 
-O -- representa localhost
-o --host pega o IP local e disponibiliza na rede
+- -- representa localhost  
+- --host pega o IP local e disponibiliza na rede
